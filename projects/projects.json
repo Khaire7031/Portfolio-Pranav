@@ -12,6 +12,7 @@
   {
     "name": "Mobisale",
     "desc": "",
+    "image": "ecommer",
     "category": "android",
     "links": {
       "view": "https://mobisale.vercel.app/",
