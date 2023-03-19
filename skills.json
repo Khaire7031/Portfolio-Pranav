@@ -13,7 +13,7 @@
     },
     {
         "name": "Spring Boot",
-        "icon": "https://img.icons8.com/fluency/48/000000/spring.png"
+        "icon": "https://img.icons8.com/color/48/null/spring-logo.png"
     },
     {
         "name": "Hibernate",
@@ -89,5 +89,11 @@
     {
         "name": "Git",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "Lambda",
+        "icon": "https://img.icons8.com/color/48/null/awslambda.png"
     }   
+
+    
 ]

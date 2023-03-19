@@ -1,8 +1,8 @@
 [
   {
-    "name": "NotyStack Android",
+    "name": "Medcare",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
+    "image": "medcare",
     "category": "android",
     "links": {
       "view": "",
@@ -10,9 +10,9 @@
     }
   },
   {
-    "name": "SPPU Engg Prep",
+    "name": "Mobisale",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
+    "image": "ecommer",
     "category": "android",
     "links": {
       "view": "",
@@ -20,9 +20,9 @@
     }
   },
   {
-    "name": "NewsBox Android",
+    "name": "Cryptoscan",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
+    "image": "crypto",
     "category": "android",
     "links": {
       "view": "",
@@ -30,9 +30,9 @@
     }
   },
   {
-    "name": "Weatherly Android",
+    "name": "AWS-lambda-Todolist-API's",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
+    "image": "medcare",
     "category": "android",
     "links": {
       "view": "",
@@ -40,19 +40,19 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "name": "Spare Parts Management",
+    "desc": "Probem Statement: Ashok Leyland - Ola/Uber Type Solutions for Management of Spare Parts",
+    "image": "spar",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://viit-huslter-codebreak-ui.vercel.app/",
+      "code": "https://github.com/Akash-Tandale001/VIIT-Huslter_Codebreak"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "name": "NewsHash",
+    "desc": "NewsHash is simple,fast,userfriendly website to fetch updated news from verious domain such as Entertainment,Spots,Technology etc... ",
+    "image": "newhash",
     "category": "mern",
     "links": {
       "view": "",
