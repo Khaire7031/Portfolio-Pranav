@@ -1,7 +1,7 @@
 [
   {
     "name": "Medcare",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "",
     "image": "medcare",
     "category": "android",
     "links": {
@@ -11,8 +11,7 @@
   },
   {
     "name": "Mobisale",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "ecommer",
+    "desc": "",
     "category": "android",
     "links": {
       "view": "https://mobisale.vercel.app/",
@@ -21,7 +20,7 @@
   },
   {
     "name": "Cryptoscan",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "desc": "",
     "image": "crypto",
     "category": "android",
     "links": {
@@ -31,7 +30,7 @@
   },
   {
     "name": "AWS-lambda-Todolist-API's",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "desc": "",
     "image": "medcare",
     "category": "android",
     "links": {
