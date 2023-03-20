@@ -1,9 +1,9 @@
 [
   {
     "name": "Medcare",
-    "desc": "",
+    "desc": "Build hospital management system with MVC design pattern which provides 6 different facilities for users to book, claim and inquire various services.",
     "image": "medcare",
-    "category": "android",
+    "category": "web",
     "links": {
       "view": "",
       "code": "https://github.com/Akash-Tandale001/Health-Manegment-System"
@@ -11,9 +11,9 @@
   },
   {
     "name": "Mobisale",
-    "desc": "",
+    "desc": "Analyzed and developed an E-commerce application with 1000+ products with different categories such Entertainment , Mobile , Laptops etc .",
     "image": "ecommer",
-    "category": "android",
+    "category": "web",
     "links": {
       "view": "https://mobisale.vercel.app/",
       "code": "https://github.com/Akash-Tandale001/E-Commerce-Site"
@@ -21,9 +21,9 @@
   },
   {
     "name": "Cryptoscan",
-    "desc": "",
+    "desc": "Crypto tracking provides over 2000+ crypto coins details with graphical representation trend over last year ,month or day and can view pricing in various different currencies.",
     "image": "crypto",
-    "category": "android",
+    "category": "web",
     "links": {
       "view": "https://crypto-quest-website.vercel.app/",
       "code": "https://github.com/Akash-Tandale001/CryptoQuest-website"

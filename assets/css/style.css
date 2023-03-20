@@ -215,7 +215,7 @@ header .navbar ul li a:hover {
   width: 81%;
   height: 46em;
   margin-left: 6rem;
-  border-radius: 50%;
+  border-radius: 300px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
@@ -333,7 +333,10 @@ header .navbar ul li a:hover {
     margin-top: 12rem;
   }
   .home .image img {
-    margin-top: -12rem;
+    /* margin-top: -12rem; */
+  }
+  .home .content{
+    padding-top: 6rem;
   }
   .home .content p {
     font-size: 2.2rem;
@@ -407,6 +410,7 @@ header .navbar ul li a:hover {
 }
 .about .row .content .box-container .box p {
   text-transform: none;
+  width: 18em;
 }
 .about .row .content .box-container .box p span {
   color: #011aff;
