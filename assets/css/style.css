@@ -213,9 +213,9 @@ header .navbar ul li a:hover {
 }
 .home .image img {
   width: 81%;
-  height: 46em;
+  /* height: 46em; */
   margin-left: 6rem;
-  border-radius: 300px;
+  border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
@@ -392,7 +392,7 @@ header .navbar ul li a:hover {
   margin-top: 1rem;
 }
 .about .row .content p {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   margin-top: 1.5rem;
   font-family: "Nunito";
   font-weight: 600;
