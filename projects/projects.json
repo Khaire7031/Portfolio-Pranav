@@ -1,62 +1,63 @@
 [
+  
   {
-    "name": "Medcare",
-    "desc": "Build hospital management system with MVC design pattern which provides 6 different facilities for users to book, claim and inquire various services.",
-    "image": "medcare",
+    "name": "EduHub",
+    "desc": "It's an e-learning platform designed to provide users with a seamless online education experience using Angular & SpringBoot.",
+    "image": "EduHub",
     "category": "web",
     "links": {
       "view": "",
-      "code": "https://github.com/Akash-Tandale001/Health-Manegment-System"
+      "code": "https://github.com/Khaire7031/EduHub-Infosys"
     }
   },
   {
-    "name": "Mobisale",
+    "name": "SilentSync - AI",
+    "desc": "The goal of this website is to encourage human-machine dialogue in order to determine the sentence and decide how to respond to the question.",
+    "image": "Home",
+    "category": "web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Khaire7031/SilentSync-AI"
+    }
+  },
+  {
+    "name": "E Commerse Website",
     "desc": "Analyzed and developed an E-commerce application with 1000+ products with different categories such Entertainment , Mobile , Laptops etc .",
-    "image": "ecommer",
+    "image": "Ecommerce",
     "category": "web",
-    "links": {
-      "view": "https://mobisale.vercel.app/",
-      "code": "https://github.com/Akash-Tandale001/E-Commerce-Site"
-    }
-  },
-  {
-    "name": "Cryptoscan",
-    "desc": "Crypto tracking provides over 2000+ crypto coins details with graphical representation trend over last year ,month or day and can view pricing in various different currencies.",
-    "image": "crypto",
-    "category": "web",
-    "links": {
-      "view": "https://crypto-quest-website.vercel.app/",
-      "code": "https://github.com/Akash-Tandale001/CryptoQuest-website"
-    }
-  },
-  {
-    "name": "AWS-lambda-Todolist-API's",
-    "desc": "",
-    "image": "medcare",
-    "category": "android",
     "links": {
       "view": "",
-      "code": "https://github.com/Akash-Tandale001/aws-node-http-api-project"
+      "code": "https://github.com/Khaire7031/ECommerce-Website"
     }
   },
   {
-    "name": "Spare Parts Management",
-    "desc": "Probem Statement: Ashok Leyland - Ola/Uber Type Solutions for Management of Spare Parts",
-    "image": "spar",
+    "name": "Climate Impact on Grapes",
+    "desc": "",
+    "image": "Grapes",
+    "category": "Machine Learning",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Khaire7031/Climate-Change-Impact-on-Grapes"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Web application that fetch weather data from a weather API and display current weather conditions and forecasts for a specific location.",
+    "image": "Wheather",
     "category": "mern",
     "links": {
-      "view": "https://viit-huslter-codebreak-ui.vercel.app/",
+      "view": "https://khaire7031.github.io/Weather-App/",
       "code": "https://github.com/Akash-Tandale001/VIIT-Huslter_Codebreak"
     }
   },
   {
-    "name": "NewsHash",
-    "desc": "NewsHash is simple,fast,userfriendly website to fetch updated news from verious domain such as Entertainment,Spots,Technology etc... ",
-    "image": "newhash",
+    "name": "Movie Recommendation System",
+    "desc": "The Movie Recommendation System uses a collaborative filtering technique to find similarities between movies and provides recommendations accordingly. ",
+    "image": "Movie",
     "category": "mern",
     "links": {
       "view": "",
-      "code": "https://github.com/Akash-Tandale001/NewsHash"
+      "code": "https://github.com/Khaire7031/Movie-Recommendation-System"
     }
   }
 ]

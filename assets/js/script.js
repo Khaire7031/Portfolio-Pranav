@@ -41,14 +41,14 @@ $(document).ready(function () {
     $("#contact-form").submit(function (event) {
         event.preventDefault();
         console.log("test email")
-        emailjs.init("XfrEEt7ZDMr9NQ2qc");
+        emailjs.init("JY_MU6IBTNOoG5I2P");
         let templateParams = {
-            to_name: "Akash Tandale",
+            to_name: "Pranav Khaire",
             from_name: document.getElementById("name").value,
             message_html: document.getElementById("message").value + "   Phone number :" + document.getElementById("phoneNumber").value
         };
         console.log(templateParams)
-        emailjs.sendForm('service_ryji879', 'template_zndb6l7', templateParams)
+        emailjs.sendForm('service_dlcw25h', 'service_dlcw25h', templateParams)
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
@@ -57,22 +57,11 @@ $(document).ready(function () {
                 console.log('FAILED...', error);
                 alert("Form Submission Failed! Try Again");
             });
+        alert("Form Submitted Successfully");
     });
     // <!-- emailjs to mail contact form data -->
 
 });
-
-// document.addEventListener('visibilitychange',
-//     function () {
-//         if (document.visibilityState === "visible") {
-//             document.title = "Portfolio | Jigar Sable";
-//             $("#favicon").attr("href", "assets/images/favicon.png");
-//         }
-//         else {
-//             document.title = "Come Back To Portfolio";
-//             $("#favicon").attr("href", "assets/images/favhand.png");
-//         }
-//     });
 
 
 // <!-- typed js effect starts -->
@@ -126,7 +115,7 @@ function showProjects(projects) {
           <div class="btns">
             ${project.links.view === "" ? `
             <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>` :
-             `<a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                `<a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
             <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>`}
           </div>
         </div>
@@ -169,16 +158,6 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 // <!-- tilt js effect ends -->
 
 
-// pre loader start
-// function loader() {
-//     document.querySelector('.loader-container').classList.add('fade-out');
-// }
-// function fadeOut() {
-//     setInterval(loader, 500);
-// }
-// window.onload = fadeOut;
-// pre loader end
-
 // disable developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
@@ -198,17 +177,6 @@ document.onkeydown = function (e) {
     }
 }
 
-// Start of Tawk.to Live Chat
-// var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-// (function () {
-//     var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-//     s1.async = true;
-//     s1.src = 'https://embed.tawk.to/60df10bf7f4b000ac03ab6a8/1f9jlirg6';
-//     s1.charset = 'UTF-8';
-//     s1.setAttribute('crossorigin', '*');
-//     s0.parentNode.insertBefore(s1, s0);
-// })();
-// End of Tawk.to Live Chat
 
 
 /* ===== SCROLL REVEAL ANIMATION ===== */
