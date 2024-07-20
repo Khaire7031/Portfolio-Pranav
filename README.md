@@ -1,7 +1,7 @@
 
 # Portfolio - Pranav Khaire
 
-Welcome to my portfolio repository! This project showcases my skills, projects, and certificates. You can explore the live version [here](https://your-live-portfolio-link.com).
+Welcome to my portfolio repository! This project showcases my skills, projects, and certificates. You can explore the live version [here](https://khairepranav.onrender.com/).
 
 ## Table of Contents
 - [Introduction](#introduction)
